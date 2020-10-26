@@ -1,0 +1,13 @@
+How do you see the files changed within each commit using GitHub Desktop GUI?
+    Changes appear on the left hand side of Github Desktop GUi.
+
+How do you see the contents of what changed within each file for a commit?
+    When changes are made, they appear in the Github GUI highlighted in green.
+
+How do you revert (backout) a commit?
+    There is an undo button at the bottom of the Desktop GUI that allows you
+    backout of a commit.
+
+What does HEAD refer to in the context of git?
+    The HEAD refers to the current branch your working on or the last commit
+    that was checked out in the working directory. 
