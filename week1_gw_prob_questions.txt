@@ -1,0 +1,24 @@
+Explain the difference between an experiment and a trial.
+    An experiment is a repeatable process used to gather clearly defined results. A trial is a single occurence of an experiment providing
+    one result. An experiment is made up of multiple trials.
+
+Explain the difference between an outcome and an event.
+    An outcome is a result of a trial and an event is a group of outcomes that are of interest.
+
+Come up with a real world example of each perspective of probability (classical, empirical, and subjective) that was not mentioned in class.
+    Classical: 
+        predicting the probability of a couple's first child being a boy or girl using the overall ratio of humans having a boy or girl.
+
+    Empirical:  
+        predicting the probability of a couple's fifth child being a boy or girl using the boy to girl ratio of the couples other four children.
+
+    subjective:
+        A couple guessing whether they will have a boy or girl based on intuition.
+
+Explain the difference between descriptive and inferential statistics.
+    descriptive statistics describes data that is present and inferential statistics is used to make generalizations about a population
+    using a sample. 
+
+Explain the difference between frequentist and Bayesian statistics.
+    frequentist statistics draws conclusions of how often an occurence will happen from sample data and Bayesian statistics assigns a probability
+    to a hypothesis and updates its probability as new information comes in.
